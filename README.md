@@ -29,6 +29,7 @@ Dados coletados: apelido, id do usuário e vai comunicar com o banco de dados. V
 
 	pegar nome do personagem de dentro de um banco de dados, checar se esse personagem aparece na roleta, se aparecer ler nome do usuário, pegar id, premiar.
 	base: ler dados do usuário (apelido/id), pegar lógica de cada tipo de premiação, checar se cumpri os requisitos e premiar.
+	se a pessoa possui 0 de kakera e possui lvl x a pessoa ganha um valor de kakera pra deixar mais equivalente à média de kakera dos players do server.
 
 4° sistema token com base no lvl
 
@@ -51,5 +52,3 @@ Dados coletados: apelido, id do usuário e vai comunicar com o banco de dados. V
 	são objetos, guardam atributos.
 	cada medalha precisa de um lvl específico mais missões.
 	buff ganho de kakera no minigame em x%; ganho de kakera da arena; ganho de kakera objetivo da temporada; e mecânicas futuras.
-
-
