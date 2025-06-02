@@ -22,7 +22,7 @@ Dados coletados: apelido, id do usuário e vai comunicar com o banco de dados. V
 2° sistema de lvl (lvl 1000 max):
 
 	Sistema(ganho de xp): ler cada mensagem enviada em info-mudae e roleta, ler id, identificar usuário no banco de dados, vai editar o xp do usuário, 2 xp por mensagem.
-	sistema de nível pós max lvl 1000 com metas de xp e não nível ou lvl ilimitado (ambos com recompensas reduzidas.
+	sistema de nível pós max lvl 1000 com metas de xp e não nível ou lvl ilimitado (ambos com recompensas reduzidas).
 	definir base de xp e escalonamento
 
 3° automatizar tudo (premiações)

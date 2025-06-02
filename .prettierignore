@@ -1,0 +1,8 @@
+node_modules
+.prettierignore
+.prettierrc
+eslint.config.mjs
+.env
+*.db
+*.json
+README.md

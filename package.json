@@ -1,0 +1,36 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Criar um bot funcional e divertido para o Discord, junto com a Mudae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Nenhum teste definido\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akzin9/BotDiscord.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord",
+    "Javascript"
+  ],
+  "author": "Joe-Krth & Akzin9",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Akzin9/BotDiscord/issues"
+  },
+  "homepage": "https://github.com/Akzin9/BotDiscord#readme",
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "sqlite": "^5.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "eslint": "^9.28.0",
+    "globals": "^16.2.0",
+    "prettier": "^3.5.3"
+  }
+}
